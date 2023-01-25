@@ -1,4 +1,4 @@
 ---
-title: Learning Blog
+title: Welcome to my blog
 ---
 
