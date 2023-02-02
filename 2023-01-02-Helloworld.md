@@ -1,5 +1,7 @@
----
-title: "Helloworld"
-date: 2023-01-23
----
+class FirstProgram{
+public static void main(String args[]){
+
+System.out.println("HelloWorld");
+}
+}
 
