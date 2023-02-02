@@ -8,6 +8,7 @@ class dataTypeCasting{
     i = (int)d; // conversion from double to int
     b = (byte)d; // from double to byte
     System.out.println("d =" + d + "i = " + i);
+    System.out.println("d =" + d + "b = " + b);
   }
 }
                           
