@@ -1,6 +1,6 @@
 ---
 title: "first week preparation"
-date: 2023-01-02
+date: 2023-02-01
 ---
 
   I commenced learning java with the help of a website called [javatpoint]( https://www.javatpoint.com/java-tutorial ). I utilized this website to commence my Java preparation from scratch. First I started by installing intellij with the help of my udemy instructor Tim who has videos on how to install intellij for windows. After successfully installing IntelliJ, I also installed JDK and created my first Java class called "HelloWorld" and executed my first [helloworld](https://github.com/jaswanthkasani/LearningBlog/blob/main/program/helloworld.java) program in it. To run the file, we need to right click and select Run.
