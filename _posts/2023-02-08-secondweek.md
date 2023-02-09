@@ -4,7 +4,7 @@ date: 2023-02-07
 ---
 
 In the second week of my java preperation, I have studied concepts of control flow statements such as if statements, switch statements, do while loop
-while loop, for loop, for-each loop, break statement and continue statement. After briefing through these concepts I have practiced few programs regarding these concepts. In the begining, I have faced challenges while practicing these programs because in python we do not use curly braces like we use in java, we use indentation.
+while loop, for loop, for-each loop, break statement and continue statement. After briefing through these concepts I have practiced few programs regarding these concepts. Here are few programs regarding control statements. In the begining, I have faced challenges while practicing these programs because in python we do not use curly braces like we use in java, we use indentation.
 So, while practicing these programs, I have faced errors due to not proving curly braces at the begining and at the end of the statements.
 Basic syntax of if-else :
 <code>
