@@ -23,5 +23,4 @@ Static keyword can be used in 6 scenarios. Static variables, Static methods, Sta
   className.methodName()
  </code>
 
-
-  
+Here is an example program of Static Method.
