@@ -18,8 +18,8 @@ void display(){
 }
 }
 
-Public class TestStaticMethod{
-  Public Static void main(String []args){
+public class TestStaticMethod{
+  public Static void main(String []args){
     Student.change();
     Student s1 = new Student(111, JK);
     Student s2 = new Student(112, Kasani);
