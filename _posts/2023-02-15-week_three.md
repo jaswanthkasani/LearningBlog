@@ -30,3 +30,28 @@ Static keyword can be used in 6 scenarios. Static variables, Static methods, Sta
  </code>
 
 Here is an [example](https://github.com/jaswanthkasani/LearningBlog/blob/main/program/StaticMethod.java) program of Static Method. Staic methods cannot refer to **'this'** and **'super'**.
+
+## ENUM ##
+  Enum in Java is a datatype which contains 'a fixed set of constants'. We should have all ENUM constants in Upper case letters. For instance, if we declare a variable 
+"GRADE" which can only take four values (A, B, C, D), in this case we use ENUM. Enum decleration can be done outside a class or inside a class but not inside a method.
+Example:
+<code>
+public enum Grade{
+A,
+B, 
+C,
+D
+}
+</code>
+ 
+  When we declare any object of type Grade, it can take either A or B or C or D.
+ <code> Grade g = Grade.C; // which means we are assigning C to object g. </code>
+ 
+  We can add constructors, instance variables and Methods in an Enum. Constructors in an Enum are private so we cannot call them directly. The methods inside java.lang.enum class are Values(), Ordinal(), toString() and ValueOf(). You can check [different methods of java](https://www.programiz.com/java-programming/enums) Enum class here. Here is a simple program on Enum.
+ 
+ 
+  
+  
+  
+
+
