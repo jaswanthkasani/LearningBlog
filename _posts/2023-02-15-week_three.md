@@ -47,7 +47,7 @@ D;
   When we declare any object of type Grade, it can take either A or B or C or D.
  <code> Grade g = Grade.C; // which means we are assigning C to object g. </code>
  
-  We can add constructors, instance variables and Methods in an Enum. Constructors in an Enum are private so we cannot call them directly. It is a good practice to use basic methods but not a good practice to add both constructors and methods. The methods inside java.lang.enum class are Values(), Ordinal(), toString() and ValueOf(). You can check [different methods of java](https://www.programiz.com/java-programming/enums) Enum class here. Here is a simple [program](https://github.com/jaswanthkasani/LearningBlog/blob/main/program/enum.java) on Enum.
+  We can add constructors, instance variables and Methods in an Enum. Constructors in an Enum are private so we cannot call them directly. It is a good practice to use basic methods but not a good practice to add both constructors and methods. The methods inside java.lang.enum class are Values(), Ordinal(), toString() and ValueOf(). You can check [different methods of java](https://www.programiz.com/java-programming/enums) Enum class here. Here is a simple [program](https://github.com/jaswanthkasani/LearningBlog/blob/main/program/enum.java) on Enum. This has been my preperation this week so far and I will update my blog with  coming week's preperation.
  
  
   
