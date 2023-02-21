@@ -9,7 +9,7 @@ class Encap{
 }
 
 class Test{
-  Public static void main(String []args){
+  public static void main(String []args){
     Encap E = new Encap();
     E.setA(12);
   }
