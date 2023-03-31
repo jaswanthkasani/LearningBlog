@@ -8,9 +8,8 @@ checks whether the ingredients required for the recipe are available in the pant
 for the recipe. Else, the missing ingredients will be added to the shopping cart and will be displayed at the end after the user exits the program.
 
 For this project, skills that I learned such as HashMap, Map, Scanner to get the user input,  if-else statements to control program flow based on user input and
-standard I/O operations to interact with the user. One additional skill I had to learn is Exception handling. My java preperation has not yet covered this concept,
-so I had to learn exception handling specifically for this project. The program uses try-catch blocks to handle exceptions that may arise during runtime.
-
+standard I/O operations to interact with the user were useful for this project. Also, one additional skill I had to learn is Exception handling. My java preperation in this semester has not yet covered this concept,
+so I had to learn exception handling specifically for this project. The program uses try-catch blocks to handle exceptions that may arise during runtime. It ensures that the user enters valid input and if the input is invalid, it prompts the user to try again.
 ## CHALLENGES ##
   One of the challenges I have faced while implementing project is to deal with github merge conflicts. Also, exception handling was quite new to me at the moment but 
  I have managed to learn it before implementing it in out project.
